@@ -45,9 +45,10 @@ div {
     border: 1px solid green;
     padding: 10px;
     background: gold;
+    cursor: grab;
 }
 img {
-    width: 100%;
+   
 }
 
 div.tarolo {
